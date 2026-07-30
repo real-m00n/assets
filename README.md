@@ -3,89 +3,133 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/YYcYf88jAb">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord">
-  </a>
-  <a href="https://github.com/scp222thj/MalumMenu/releases">
-    <img src="https://img.shields.io/github/downloads/scp222thj/MalumMenu/total?style=flat&logo=github&label=Downloads">
-  </a>
+
+<a href="https://discord.gg/YYcYf88jAb">
+<img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat&logo=discord">
+</a>
+
+<a href="https://github.com/scp222thj/MalumMenu/releases">
+<img src="https://img.shields.io/github/downloads/scp222thj/MalumMenu/total?style=flat&logo=github&label=Downloads">
+</a>
+
 </p>
 
 <h1 align="center">
-  M00N Project
+🌙 M00N Assets
 </h1>
 
 <p align="center">
-  A community-driven Among Us modification project built with a focus on customization, experimentation, and learning.
+A collection of resources, files, and assets used across my projects.
 </p>
 
----
 
-## Contents
+<!-- omit in toc -->
+# 📚 Table Of Contents
 
-- [Downloads](#downloads)
-- [Installation](#installation)
-- [Features](#features)
-- [FAQ](#faq)
-- [Disclaimer](#disclaimer)
+- [📦 Downloads](#-downloads)
+- [⚙️ Installation](#️-installation)
+- [✨ Features](#-features)
+- [❓ FAQ](#-faq)
+- [⚠️ Disclaimer](#️-disclaimer)
 
----
 
-## Downloads
+# 📦 Downloads
 
-All available releases can be found on the GitHub Releases page.
+All available versions and files can be found below.
 
-| Version | Supported Version | Download |
-|---------|-------------------|----------|
-| Latest | Current release | [Download](https://github.com/scp222thj/MalumMenu/releases/latest) |
+| Version | Date | Download |
+|-|-|-|
+| Latest | Current | [Download](https://github.com/scp222thj/MalumMenu/releases/latest) |
 
-Older releases are available through the releases archive.
 
----
+# ⚙️ Installation
 
-## Installation
+<details>
+<summary>🪟 Windows</summary>
 
-Before installing, make sure you are using a supported version and that you have backed up any important files.
+<br>
 
-Installation instructions and platform-specific details can be found in the release documentation.
+1. Download the latest release.
+2. Extract the files.
+3. Move the files into the required directory.
+4. Launch the application/game.
 
----
+If you run into issues, check the FAQ section below.
 
-## Features
+</details>
+
+
+<details>
+<summary>🐧 Linux</summary>
+
+<br>
+
+1. Make sure required dependencies are installed.
+2. Download the latest release.
+3. Follow the setup instructions.
+4. Launch normally.
+
+</details>
+
+
+# ✨ Features
 
 <img src="https://scp222thj.dev/static/images/malumIngame.png">
 
-Some included functionality:
 
-- Custom interface system
-- Additional customization options
-- Experimental gameplay tools
-- Mod framework integration
-- Community-developed modules
+- 🌙 Clean and simple interface
+- ⚡ Fast and lightweight design
+- 🛠️ Customizable modules
+- 📁 Organized project structure
+- 🔧 Regular updates and improvements
 
-For the complete feature list, see:
-[FEATURES.md](https://github.com/scp222thj/MalumMenu/blob/main/FEATURES.md)
 
----
+# ❓ FAQ
 
-## FAQ
+<details>
 
-### Having problems?
+<summary>❗ Something is not working</summary>
 
-Make sure:
+<br>
 
-- You are using the correct release version
-- Your installation matches your platform
-- Required dependencies are installed
+Make sure you are using the latest version and that all required files are installed correctly.
 
-If you still need help, open an issue or join the community Discord.
+If the issue continues, open an issue or contact the community.
 
----
+</details>
 
-## Disclaimer
 
-This project is not affiliated with Among Us or Innersloth LLC.
+<details>
 
-Modifications can affect your game installation and may conflict with game updates or online services. Use responsibly and understand the risks before installing.
+<summary>🐛 I found a bug</summary>
 
-The developers are not responsible for consequences caused by misuse of this software.
+<br>
+
+Please report bugs with:
+
+- What happened
+- What you expected
+- Steps to reproduce it
+- Screenshots/logs if available
+
+</details>
+
+
+<details>
+
+<summary>💡 I have a suggestion</summary>
+
+<br>
+
+Suggestions are welcome! Open an issue with your idea and explain how it could improve the project.
+
+</details>
+
+
+# ⚠️ Disclaimer
+
+This project is provided as-is.
+
+Use it responsibly and understand that modifications may cause compatibility issues with other software.
+
+The creator is not responsible for problems caused by misuse.
